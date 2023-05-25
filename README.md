@@ -3,6 +3,7 @@
 #### Drawer for Dynamics CRM
 
 ##### how to use
+Import drawerjs in the form properties, and then add the following code where you need to open the drawer
 
 ```
 controllDrawer({
