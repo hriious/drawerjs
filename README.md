@@ -33,4 +33,4 @@ controllDrawer({
 ```
 
 and one another thing...
-Only suitable for opening drawer and displaying webresource,yeah,that's it. 💖💖💖
+Only suitable for opening drawer and displaying webresource.
