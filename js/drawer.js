@@ -38,7 +38,7 @@ class DrawerView {
   #iframeEle = this.$_.querySelector(".drawer__content-iframe");
 
   #data;
-  #prefix = "vy_";
+  #prefix = "yourprefix_";
   #rootUrl = Xrm.Page.context.getClientUrl();
 
   init() {
